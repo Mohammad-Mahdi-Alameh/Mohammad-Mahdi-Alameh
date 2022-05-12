@@ -7,8 +7,10 @@
 
 - 🌱 I’m currently learning full stack web development
 - 🥅 2022 Goal: Upgrade to my best version...
+ -I 💓 🏍️,🏋️,🧑‍💻,⚽
 - ⚡ I once dreamt of being a pilot 🧑‍✈️
--I 💓 🏍️,🏋️,🧑‍💻,⚽
+
+ 
 
 
 
@@ -29,8 +31,10 @@
 [<img align="left" alt="Terminal" width="26px" src="./img/terminal-light.svg" />](https://www.youtube.com/playlist?list=PLkwxH9e_vrAJ0WbEsFA9W3I1W-g_BTsbt#gh-light-mode-only)
 [<img align="left" alt="Terminal" width="26px" src="./img/terminal-dark.svg" />](https://www.youtube.com/playlist?list=PLkwxH9e_vrAJ0WbEsFA9W3I1W-g_BTsbt#gh-dark-mode-only)
 
+
 <br />
 <br />
+
 #### Version Control
 
 <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a>
