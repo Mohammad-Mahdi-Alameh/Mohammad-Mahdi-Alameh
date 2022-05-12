@@ -6,16 +6,15 @@
 
 
 - 🌱 I’m currently learning full stack web development
-- 🥅 2022 Goals: Survive FSW Bootcamp at SE Factory
-- ⚡ Fun fact: I love to draw and play guitar / drums
+- 🥅 2022 Goal: Upgrade to my best version...
+- ⚡ I once dreamt of being a pilot 🧑‍✈️
+-I 💓 🏍️,🏋️,🧑‍💻,⚽
 
 
-### Connect with me:
 
+### Connect With Me:
 
-[![website](./img/linkedin-light.svg)](https://linkedin.com/in/codeSTACKr#gh-light-mode-only)
-[![website](./img/linkedin-dark.svg)](https://linkedin.com/in/codeSTACKr#gh-dark-mode-only)
-&nbsp;&nbsp;
+<a href="https://www.linkedin.com/in/mmw-alameh-b53760204/"> <img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" alt="linkedin" width="40" height="40"/> </a>
 
 
 ### Languages and Tools:
@@ -32,39 +31,17 @@
 
 <br />
 <br />
+#### Version Control
+
+<a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a>
+
+
+
+
+<br/>
 
 ---
 
+<br/>
 
----
 
-<details>
-  <summary>:zap: Recent GitHub Activity</summary>
-  
-<!--START_SECTION:activity-->
-1. 🗣 Commented on [#156](https://github.com/codeSTACKr/create-10k-nft-collection/issues/156) in [codeSTACKr/create-10k-nft-collection](https://github.com/codeSTACKr/create-10k-nft-collection)
-2. 🎉 Merged PR [#156](https://github.com/codeSTACKr/create-10k-nft-collection/pull/156) in [codeSTACKr/create-10k-nft-collection](https://github.com/codeSTACKr/create-10k-nft-collection)
-3. ❌ Closed PR [#44](https://github.com/codeSTACKr/minter-dapp/pull/44) in [codeSTACKr/minter-dapp](https://github.com/codeSTACKr/minter-dapp)
-4. 🗣 Commented on [#44](https://github.com/codeSTACKr/minter-dapp/issues/44) in [codeSTACKr/minter-dapp](https://github.com/codeSTACKr/minter-dapp)
-5. ❌ Closed PR [#45](https://github.com/codeSTACKr/minter-dapp/pull/45) in [codeSTACKr/minter-dapp](https://github.com/codeSTACKr/minter-dapp)
-<!--END_SECTION:activity-->
-
-</details>
-
-<details>
-  <summary>:zap: GitHub Stats</summary>
-
-  <img align="left" alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=codeSTACKr&show_icons=true&hide_border=false&title_color=ff652f&icon_color=FFE400&bg_color=09131B&text_color=ffffff&border_color=0c1a25" />
-
-</details>
-
-[website]: https://codeSTACKr.com
-[course]: http://vsCodeHero.com
-[twitter]: https://twitter.com/codeSTACKr
-[youtube]: https://youtube.com/codeSTACKr
-[instagram]: https://instagram.com/codeSTACKr
-[linkedin]: https://linkedin.com/in/codeSTACKr
-[webdevplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrAJ0WbEsFA9W3I1W-g_BTsbt
-[jsplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrALRJKu7wfXby3MKeflhTu6B
-[cssplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrALSdvZuEh6gqQdmDoDIoqz4
-[reactplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrAK4TdffpxKY3QGyHCpxFcQ0
